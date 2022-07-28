@@ -1,6 +1,11 @@
 .container ul li{
     padding-left: 40px;
 }
+.freequent-ask{
+    text-align: center;
+    display: inline;
+    width: 50%;
+}
 .discover{
     text-align: center;
     
