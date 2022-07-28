@@ -28,3 +28,13 @@ footer{
     text-align: center;
     justify-content: center;
 }
+.companies{
+    text-align: center;
+}
+.companies ul{
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    
+}
