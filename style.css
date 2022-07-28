@@ -10,3 +10,21 @@
     text-align: center;
     
 }
+#courses{
+    text-align: center;
+}
+footer{
+    background-color: #161616;
+    width: 100%;
+}
+.footer{
+    text-align: center;
+    color: white;
+    
+}
+.footer ul{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
